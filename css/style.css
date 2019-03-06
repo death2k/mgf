@@ -228,14 +228,14 @@ a:hover {
 
 a.logo {
     font-size: 48px;
-    color: #42a5f5;
+    color: #dc2222;
     line-height: 1;
 }
 
 .nav-middle i {
     font-size: 28px;
     line-height: 1.8;
-    color: #42a5f5;
+    color: #dc2222;
 }
 
 .nav-middle {
@@ -251,7 +251,7 @@ a.logo {
 }
 
 a.button-head-mow3 {
-    background: #42a5f5;
+    background: #dc2222;
     padding: 9px 25px;
     display: inline-block;
     font-size: 15px;
@@ -263,7 +263,7 @@ a.button-head-mow3 {
 /* navigation */
 
 .bg-light {
-    background: linear-gradient(to bottom, #42a5f5, #86c9ff);
+    background: linear-gradient(to bottom, #dc2222, #dc2222);
 }
 
 li.nav-item a {
@@ -286,7 +286,7 @@ li.nav-item a {
 
 .dropdown-item:hover,
 .dropdown-item:focus, .dropdown-item.active, .dropdown-item:active {
-    background: linear-gradient(to left, #42a5f5, #86c9ff);
+    background: linear-gradient(to left, #dc2222, #dc2222);
 }
 
 /*-- Sticky Navigation --*/
@@ -308,7 +308,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light.sticky-nav {
 }
 
 .brands-w3ls {
-    background: linear-gradient(to top, #42a5f5, #86c9ff);
+    background: linear-gradient(to top, #dc2222, #dc2222);
 }
 
 .brands-w3ls ul li i {
@@ -333,7 +333,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light.sticky-nav {
 }
 
 .banner-w3ls-1 {
-    background: url(../images/banner1.jpg) no-repeat center;
+    background: url(../images/imgindex/b2.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -343,7 +343,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light.sticky-nav {
 }
 
 .banner-w3ls-2 {
-    background: url(../images/banner2.jpg) no-repeat center;
+    background: url(../images/imgindex/b1.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -353,7 +353,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light.sticky-nav {
 }
 
 .banner-w3ls-3 {
-    background: url(../images/banner3.jpg) no-repeat center;
+    background: url(../images/bombeirocivil1.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -584,7 +584,7 @@ h3.title:after {
 /*-- footer --*/
 
 footer {
-    background: url(../images/bg3.jpg) no-repeat center;
+    background: url(../images/imgindex/bannerindex1.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -884,7 +884,7 @@ h6.small-heading {
 /* stats */
 
 .stats-w3layouts {
-    background: url(../images/bg5.jpg) no-repeat center fixed;
+    background: url(../images/imgindex/b1.jpg) no-repeat center fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
